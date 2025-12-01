@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "かたちあるもの",
+  "base_artist": "Ko Shibasaki",
+  "createdAt": "2025-12-01T12:44:14.888934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "かたちあるもの",
+      "artist": "Ko Shibasaki",
+      "has_synced": true,
+      "path": "select/01_かたちあるもの_Ko_Shibasaki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "かたちあるもの",
+      "artist": "柴咲コウ",
+      "has_synced": true,
+      "path": "select/02_かたちあるもの_柴咲コウ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "かたちあるもの",
+      "artist": "柴咲コウ",
+      "has_synced": true,
+      "path": "select/03_かたちあるもの_柴咲コウ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "かたちあるもの",
+      "artist": "Ko Shibasaki",
+      "has_synced": true,
+      "path": "select/04_かたちあるもの_Ko_Shibasaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かたち あるもの",
+      "artist": "柴咲 コウ",
+      "has_synced": false,
+      "path": "select/pl_01_かたち_あるもの_柴咲_コウ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "かたち あるもの",
+      "artist": "柴咲 コウ",
+      "has_synced": false,
+      "path": "select/pl_02_かたち_あるもの_柴咲_コウ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "かたち あるもの",
+      "artist": "柴咲 コウ",
+      "has_synced": false,
+      "path": "select/pl_03_かたち_あるもの_柴咲_コウ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "かたち あるもの(Album Ver.)",
+      "artist": "柴咲 コウ",
+      "has_synced": false,
+      "path": "select/pl_04_かたち_あるもの(Album_Ver.)_柴咲_コウ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "かたち あるもの",
+      "artist": "柴咲 コウ",
+      "has_synced": false,
+      "path": "select/pl_05_かたち_あるもの_柴咲_コウ.txt"
+    }
+  ]
+}
